@@ -5,6 +5,17 @@
         <description>Updates for the Developer ID build.</description>
         <language>en</language>
         <item>
+            <title>0.16.23</title>
+            <pubDate>Fri, 04 Sep 2026 17:58:50 +0000</pubDate>
+            <sparkle:version>61</sparkle:version>
+            <sparkle:shortVersionString>0.16.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/2krc4v7hvb-lang/stormy-releases/releases/download/macos-0.16.23/Stormy-0.16.23.dmg"
+                       length="25967831"
+                       type="application/octet-stream"
+                       sparkle:edSignature="pJGYswdxgotwOgWov5xyHcwbvp4/RDeX4+NyO1E292JnbyUtqt2kcWMDq7ZwHsFIUHjfvrjI6QLGH/ttMD8MDQ==" />
+        </item>
+        <item>
             <title>0.16.22</title>
             <pubDate>Fri, 04 Sep 2026 06:50:35 +0000</pubDate>
             <sparkle:version>60</sparkle:version>
